@@ -1,0 +1,19 @@
+{
+  "name": "rafaelsousa/projects",
+  "description": "Teste de novas implementações do php 8.1",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "rafael",
+      "email": "rafael_sousa2018@outlook.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "src"
+    }
+  }
+}
